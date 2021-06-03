@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His Majesties pleasure touching an office in London, for reformation of abuses in the dying of silks.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13157</idno><idno type="EEBO-CITATION">99892710</idno>
+  <idno type="VID">188376</idno>
+  <idno type="EEBO-PROQUEST">2240931813</idno>
+  
+            <idno type="STC">STC 9132</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[24]</idno>
+            <idno type="STC">ESTC S123886</idno>
+            <idno type="PROQUEST">ocm99892710</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892710e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188376)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His Majesties pleasure touching an office in London, for reformation of abuses in the dying of silks.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3, [1] sheets.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1638 [i.e. 1639]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; the dates are given according to Lady Day dating.</note>
+                  <note>At end of text: ... VVestminster the seventh day of February in the fourteenth yeer of Our reign.</note>
+                  <note>Arms 24; Steele notation: Dying his 2) Majesty 3) men 4) said other-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Dyes and dyeing --  Textile fibers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188376:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">¶ A Proclamation declaring His Majesties pleasure touching an Office in London, for reformation of abuses in the Dying of Silks.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the manifold abuses of late yeers practiced in the Dying</hi> of Raw Silks into Blacks and Colours, aswell by corrupt mix<g ref="char:EOLhyphen"/>tures to increase them in their weight, as otherwise, have appear<g ref="char:EOLhyphen"/>ed to His Majestie upon severall Informations heretofore exhibi<g ref="char:EOLhyphen"/>ted in His High Court of Star-chamber, and sithence upon di<g ref="char:EOLhyphen"/>vers Hearings and Examinations taken by His Majesty and His Privy Councell, of those abuses complained of: And howsoever his Majesty by former Proclamations did prohibit those wayes of deceipt, and directed Rules to be observed for preventing thereof, yet finding by sundry complaints of the Silk dyers, and Silk-weavers of <hi>London,</hi> that those abuses did still conti<g ref="char:EOLhyphen"/>nue and increase to the common deceipt and dammage of His people;</p>
+            <p>His Majesty therefore out of his Princely care to provide a timely remedy for such grow<g ref="char:EOLhyphen"/>ing evils as concern the publique, Hath thought fit, by His Letters Patents, under His great Seal of <hi>England,</hi> dated the eight day of October last, upon due and mature considera<g ref="char:EOLhyphen"/>tion, to erect an Office in <hi>London</hi> for the Surveying, trying, and weighing of all dyed Silks, and to appoint severall Officers of Trust, who are to make triall of the same, where<g ref="char:EOLhyphen"/>by these common falsities in the dying thereof might be discovered, and the delinquents therein condignly punished.</p>
+            <p>And to the end that all His Majesties Subjects may take knowledge of the good pro<g ref="char:EOLhyphen"/>visions made for reformation in the premisses, His Majestie is pleased to make publique de<g ref="char:EOLhyphen"/>claration of His said Grant, whereby His pleasure therein may be more fully known, and
+<pb facs="tcp:188376:2"/>all due conformity and obedience accordingly yeelded to the same; And therefore His Majesty in pursuance of the said Letters patents, doth hereby straitly charge &amp; command, That all person and persons whatsoever, which shall hereafter put forth to dying, or cause or procure to bee dyed, or put forth to dying any manner of Silks whatsoever, within the Realm of <hi>England,</hi> or Dominion of <hi>Wales,</hi> shall first bring all and every parcell and parcels of the same Silks, together with the Bill and Bills of parcels thereof to the said Office; And the same Silks ready marked, and ley-banded with a speciall marking thred to be provi<g ref="char:EOLhyphen"/>ded at the said Office for that purpose, and thence bought at reasonable prices, not ex<g ref="char:EOLhyphen"/>ceeding the rates now usually paid for the same, which said Officers are so to order the said Silks in the weighing and registring the same to and from the hands of the Dyers, as shall be by those his Majesties Officers thought meet for effecting the Reformation in<g ref="char:EOLhyphen"/>tended; And that no person or persons buying Raw Silks shall hereafter Dye, or cause the same to be Dyed otherwise then at a common Dy-house; Nor shall send nor deliver to any Dyerany Silks whatsoever to be dyed, before the same Silks have been first brought to the said Officers or their Deputies, with the Bill of parcels, and the same be there registred, and in all things so ordered as aforesaid.</p>
+            <p>And that no Dyer whatsoever do take or receive any Silks to be Dyed, but in and at the said Office onely, and at and from the hands of the said Officers or their deputies; And that the said Dyer after the dying thereof do return the said Silks so died to the said Office, to be tried and examined by the said Officers or their deputies, and do not deliver any parcels of Silks by them dyed to any person, untill the same after the dying thereof have been so brought and returned to the said Officers or their Deputies with the Bils of parcels as a<g ref="char:EOLhyphen"/>foresaid.</p>
+            <p>And to the end that Dyers may be better regulated in the true Dying of Silks, His Majestie doth straightly charge and command, that the Rules and directions by His se<g ref="char:EOLhyphen"/>verall Proclamations formerly given, and published against the false Dying of Silks, shall be from henceforth duly observed by all Dyers whatsoever in all the particulers thereof (except as to hard Silk, which for some speciall Manufactures His Majestie hath lately di<g ref="char:EOLhyphen"/>spensed with;) And that no Silk-dyer shall vent, sell, or otherwise barter, or utter any Silks died: And if any of the said Dyed silks, shall by the said Officers, or their Depu<g ref="char:EOLhyphen"/>ties upon the return thereof by the said Dyers to the said Office be found faultie and not truly Dyed; then His Majestie doth will, ordaine, and appoint, that the whol parcell, or parcels of the same Silks, so falsly Dyed, shall be by the said Officers there retained and kept, and not suffered to be vented, but shall be burnt, upon triall first made thereof, in the presence of the Owner, and Dyer that dyed the same, if upon convenient notice given they will be present at the tryall thereof. And to the end that the said Office may be furnished with able, and indifferent persons of judgement to make tryalls of the said dyed Silks according to Art, His Majestie hath appointed that the Master, Wardens, and Assistants of the Com<g ref="char:EOLhyphen"/>pany of Dyers of <hi>London,</hi> or some of them, shall be assistant to the said Officers, in the well setling of the said Office; And that they, or the greater part of them, from time to time do make choice of so many fit and meet persons of their Company, being of perfect skill and judgement in Dying of Silks, as shall be needfull; who together with the said Officers shall make due trialls of all Dyed silks; And that the Bayliffes, and Wardens of the Com<g ref="char:EOLhyphen"/>pany of Silk-weavers of <hi>London,</hi> or some of them shall be also assistant to the said Officers,
+<pb facs="tcp:188376:3"/>and that they, or the greater part of them, do make choice of so many able and sufficient men in their Company, as shall be needfull to be assistant to the said Officers, in making searches and discovery of all Dyed silks corrupted and falsified, And to the end, that the said Silk-dyers may have competent, and meet prizes, and allowances for the Dying of Silks, whereby they may the better be encouraged in the due exercise of their trade, without falsitie, or deceit, upon pretence of insufficient prizes heretofore allowed them; His Majestie doth therefore will, or<g ref="char:EOLhyphen"/>dain, and appoint, that all, and every Owner, and Owners of Silks, which shall put forth the same to be Dyed, shall pay, and allow to the Dyer, or Dyers, for the Dying thereof, the full price of sixteen pence the Raw pound for dying of all Silks, in any ordinary colours, (Graine colours excepted) and eighteen pence the Raw pound for all Spanish-black; and no other Black to be Dyed; which prizes upon due consideration thereof taken by divers Alder<g ref="char:EOLhyphen"/>men of <hi>London,</hi> to whom His Majesties Privie Councell referred the same, were certified to be moderate, and sufficient prizes in that behalf; and whereunto divers of the Silk-men, and Silk-dyers of <hi>London</hi> being called, gave their assent: And therfore His Majestie doth charge, and command, that no Silk-dyer, or Silk-man, or other Owners of Silk whatsoever, shall hereafter directly, or indirectly, receive, or take, give, offer, or contract, or agree to give any greater, or lesser rates or prizes for the Dying of the said Silks, then is herein before limited, and appointed; and that the aforesaid rates, and prizes for Dying of Silks, which upon re<g ref="char:EOLhyphen"/>turn from the Dyers thereof to the said Office, shall be found truly Dyed, shall be payed at the said Office, by the Owners of the said Silks, to the said Dyers monethly at the least, or to such persons as the said Dyers shall nominate, and appoint for that purpose.</p>
+            <p>And His Majestie doth further ordain and appoint, that the said Officers and their De<g ref="char:EOLhyphen"/>puties shall and may have one Seal engraven with His Majesties Arms, or Ensigne of his Principallity of <hi>Wales,</hi> to be used for and about the marking and sealing of the said Bills of parcels, and for other affairs or businesses of the said Office; Which Seal of Office, or the said marking thred, His Majestie declareth it shall not be lawfull to any other person or persons to make or counterfeit, upon pain of His Majesties high displeasure, and such penalties, as by the Lawes and Statutes of this Realm, or otherwise may be inflicted up<g ref="char:EOLhyphen"/>on such offenders.</p>
+            <p>And for the better discovery and finding out of all frauds and abuses, which may be close<g ref="char:EOLhyphen"/>ly and covertly practized in the corrupt dying of Silks, His Majestie doth hereby autho<g ref="char:EOLhyphen"/>rize the said Officers and their Deputies for the time being, That they taking with them the Wardens of the said Company of Dyers of <hi>London,</hi> or some of them, with the assist<g ref="char:EOLhyphen"/>ance of a Constable or other lawfull Officer, and such others as they shall think meet, shal and may from time to time make Search in all such houses, Ware-houses, Cellars, Dye-houses, Shops, Fairs, Markets, Stalls, Boothes, and other places for all Silks falsly and corrupt<g ref="char:EOLhyphen"/>ly Dyed within the Realm of <hi>England,</hi> and Dominion of <hi>Wales,</hi> or otherwise imported into the same from Forreign parts, and to seize such as they shall finde falsly dyed, and gi<g ref="char:EOLhyphen"/>ving notice thereof to the Owner upon triall made, and so found, to burn and destroy the same: And that discovery may from time to time be made of all such false dyed Silks, as hereafter shall be imported into the said Realm of <hi>England</hi> and Dominion of <hi>Wales</hi> from any Forreign or other parts or places whatsoever.</p>
+            <p>His Majestie doth hereby authorize, charge, and command all, and singular Customers, Comptrolers, Farmours of His Majesties Customes, Surveyours, Searchers, and other
+<pb facs="tcp:188376:4"/>Officers, and Ministers of His Customs, in any Port, or Ports whatsoever, within the said Realm and Dominion, that they, or any of them shall from time to time, give notice to the said Officers, or their Deputies requesting the same, of all Entries of such dyed Silks so im<g ref="char:EOLhyphen"/>ported.</p>
+            <p>And to the end that meet provision, and recompence might be had, and made, to the said Officers, and their Deputies, for their continuall great charge, and attendance upon the said Office, and the execution thereof, tending so much to the Common good of His Majesties Subjects; His Majestie according to a Petition, and Certificate of a considerable number of Silk-Weavers exhibited to His Majestie, hath appointed a moderate, and meet Fee unto the said Officers. And doth therefore hereby will, and ordain, that from henceforth there shall be answered, and paid to the said Officers, or their Deputies for the Surveying, Trying, and Weighing of the said Silks the Fee of six pence appointed by His Majesties said Letters Patents, to be paid for every pound weight of the said Silks, after the rate of sixteen ounces to the Raw pound of all Silks so dyed, and tryed as aforesaid; The said Fee to be paid by the Owner, or possessor of the same Silks, to the said Officers, or their deputies, at the time of the receipt of the same, from the said Office, after the same shall be so Dyed and tryed as aforesaid. Neverthelesse, His Majesties will and pleasure is, that the Silk-Weavers of the Citie of <hi>Canterbury,</hi> and the places neer adjacent, who shall put forth Silks to Dying there, shall from time to time, bring their said Silks with the Bils of each parcel, to his Majesties said Officers or their Deputies to some convenient place, to be by them appointed within the same Citie, To the intent that the said Silks may be there Registred, marked, weighed, and tryed, and the Fee mentioned in His Majesties said Letters Patents, duly answered as aforesaid.</p>
+            <p>And lastly, His Majesty doth will &amp; command, that all his loving Subjects of the Realm of <hi>England</hi> and Dominion of <hi>Wales,</hi> do take notice of his Majesties Royall pleasure in the pre<g ref="char:EOLhyphen"/>misses, And do from henceforth conform themselves in all due and meet obedience thereunto, as they and every of them will avoid the Censure of Contemners of His Majesties Royall Commands, and such punishments, as by the Lawes and Statutes of this Realm or other<g ref="char:EOLhyphen"/>wise may be inflicted upon them in that behalf.</p>
+            <closer>
+               <dateline>Given at Our Palace of Westminster <date>the seventh day of February in the fourteenth yeer of Our Reign.</date>
+               </dateline>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
